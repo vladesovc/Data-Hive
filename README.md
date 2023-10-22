@@ -23,7 +23,7 @@
 
 
 ## Credits
-  MAde with the help of Mosule 11 - Express, and all prior module knowledge as well. W3 Schools, along with Google assisted in helping break down and understand sections of code to help modify it in order to work. 
+  Made with the help of Module 11 - Express, and all prior module knowledge as well. W3 Schools, along with Google assisted in helping break down and understand sections of code to help modify it in order to work. 
 
 
 ## License
