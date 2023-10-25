@@ -4,8 +4,9 @@
   
 
 ## Description
-   This project is created for students to utilize a note saving system, allowing them to add and delete as they please or see fit. This was made to assist others and myself with our class and any other need for saving important information. If you dont have a pen and paper, or simply prefer typing notes out then this is perfect and solves anyones inability to take notes. Things solved while doing this project, were that I do not enjoy express ha.
-  
+   This project is created for students to utilize a note saving system, allowing them to add and delete as they please or see fit. This was made to assist others and myself with our class and any other need for saving important information. If you dont have a pen and paper, or simply prefer typing notes out then this is perfect and solves anyones inability to take notes. Things solved while doing this project, was finally understanding the true / and /api connections. Very beneficial in helping understand express.
+
+   
 ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -14,12 +15,12 @@
    
 ## Installation
 <a name="installation"></a>
-  for installing the project you will need to ensure you have the proper packages installed on your machine, so please enter "npm i" in the integrated terminal to install. After please enter "node index.js" to begin running the program.
+ IN order to install the project you will need to on the package.json level, open the integrated terminal and run npm i. Once completed you can run the application by entering node server.js in the terminal and then when the URL pops up wuth the port at the end, hover over and hit CTRL then click on that link and it will open in a browser.
 
 
 ## Usage
 <a name="usage"></a>
-  Type in the text box in order to write a note, click the save icon to save it and the delete icon to remove the note. 
+  Type in the text box in order to write a note, click the save icon to save it and it will then be filed to the  array of other notes on the left hand side of the screen.
 
 
 ## Credits
